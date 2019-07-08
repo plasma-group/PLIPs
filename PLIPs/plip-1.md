@@ -3,7 +3,7 @@ eip: 1
 title: PLIP Purpose and Guidelines
 status: Draft
 type: Meta
-author: Karl Floersch <karl@plasma.group>, but most of this was originally written here by Martin Becze <mb@ethereum.org>, Hudson Jameson <hudson@ethereum.org>, and others here https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1.md
+author: Karl Floersch <karl@plasma.group>, but most of this was originally written by Martin Becze <mb@ethereum.org>, Hudson Jameson <hudson@ethereum.org>, and others here https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1.md
 created: 2019-07-08
 ---
 
