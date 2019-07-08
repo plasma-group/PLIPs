@@ -191,9 +191,9 @@ If you are interested in assuming ownership of a PLIP, send a message asking to 
 
 The current PLIP editors are
 
-...
+...`No one!`
 
-`To be determined!`
+PLIP editors may be added based on a show of consistent contribution and enthusiasm for filling the role.
 
 ## PLIP Editor Responsibilities
 
