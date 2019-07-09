@@ -1,5 +1,5 @@
 ---
-eip: 1
+plip: 1
 title: PLIP Purpose and Guidelines
 status: Draft
 type: Meta
