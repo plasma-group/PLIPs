@@ -87,7 +87,7 @@ Each PLIP should have the following parts:
 ## PLIP Formats and Templates
 
 PLIPs should be written in [markdown] format.
-Image files should be included in a subdirectory of the `assets` folder for that PLIP as follows: `assets/eip-X` (for eip **X**). When linking to an image in the PLIP, use relative links such as `../assets/eip-X/image.png`.
+Image files should be included in a subdirectory of the `assets` folder for that PLIP as follows: `assets/plip-X` (for plip **X**). When linking to an image in the PLIP, use relative links such as `../assets/plip-X/image.png`.
 
 ## PLIP Header Preamble
 
